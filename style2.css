@@ -1,0 +1,37 @@
+p{
+   font-size: 18px; 
+}
+
+.intro {
+font-style: italic;
+}
+/*3.top id li header ga och kulrang fon */
+#top {
+    background-color: rgb(67, 83, 187);
+}
+/*4. h1 va nav ni markazga tekislash */
+h1
+nav {
+    text-align: center;
+}
+
+/*5. Faqat nav ichidagi havolalarni ko'k qilish */
+nav a {
+    color: rgb(17, 17, 133);
+}
+
+/*6. active klassli havolani qalin qilish */
+.active {
+    font-weight: bold;
+}
+
+/*7. Faqat li.highlight elementga sariq fon */
+li.hightlight {
+    background-color: rgb(125, 39, 162);
+    
+}
+
+/* 8. Barcha elementlarning margin ini 0 qilish */
+* {
+    margin: 0%;
+}
